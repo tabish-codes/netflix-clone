@@ -18,7 +18,7 @@ landing page built with pure HTML5 and CSS3.
 
 ## 🚀 Live Demo
 
-[👉 Click here to view live site](https://netcloned.netlify.app)
+[ Click here to view live site](https://netcloned.netlify.app)
 
 ---
 
@@ -38,8 +38,8 @@ landing page built with pure HTML5 and CSS3.
 ## 👨‍💻 Author
 
 **Tabish**
-- GitHub: [@tabishcodes](https://github.com/tabishcodes)
-- LinkedIn: [Tabish Ahmad](https://linkedin.com/in/tabishahmad)
+- GitHub: [@tabishcodes](https://github.com/tabish-codes)
+- LinkedIn: [Tabish Ahmad](https://linkedin.com/in/tabish-ahmad-ab6b89398)
 
 ---
 
